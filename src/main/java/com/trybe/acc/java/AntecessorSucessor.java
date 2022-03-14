@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 public class AntecessorSucessor {
 
-	public static void main(String[] args) {
-		System.out.println("Ahoy");
-		
+	public static void main(String[] args) {	
 		// Ler a entrada de um número pelo console	
 		Scanner scan = new Scanner(System.in);
 
